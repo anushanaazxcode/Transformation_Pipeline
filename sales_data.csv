@@ -1,0 +1,9 @@
+order_id,product,category,quantity,unit_price
+1001,Keyboard,Electronics,2,750
+1002,Notebook,Stationery,5,50
+1003,Mouse,Electronics,3,400
+1004,Water Bottle,Accessories,2,250
+1005,Pen,Stationery,10,15
+1006,USB Drive,Electronics,1,600
+1007,Backpack,Accessories,1,1200
+1008,Desk Lamp,Electronics,2,850
